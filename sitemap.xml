@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/</loc>
+    <lastmod>2022-05-13T13:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/tags/index/</loc>
+    <lastmod>2022-05-13T13:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/post/</loc>
+    <lastmod>2022-05-13T13:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/tags/</loc>
+    <lastmod>2022-05-13T13:00:44+01:00</lastmod>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/about/</loc>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/categories/</loc>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/code-of-conduct/</loc>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/contact/</loc>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/page/</loc>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/tags/privacy/</loc>
+  </url><url>
+    <loc>https://fbc101.github.io/hugo-mock-landing-page/privacy-policy/</loc>
+  </url>
+</urlset>
