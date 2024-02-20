@@ -1,7 +1,5 @@
 author = "Franci Branda-Chen"
-
-baseURL = 'https://fbc101.github.io/hugo-bootstrap-theme/'
-
+baseURL = 'https://fbc101.github.io/hugo-mock-landing-page/'
 copyright = "Franci Branda-Chen"
 title = "CrimeGuard"
 
